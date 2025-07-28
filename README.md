@@ -1,16 +1,35 @@
-## Hi there 👋
+# Sergio Sora
 
-<!--
-**sergiosora/sergiosora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Analista de Custos Sênior migrando para Ciência de Dados aos 30 anos  
+🔍 Especialista em automações com Excel VBA e indicadores financeiros  
+📍 Santa Catarina, Brasil
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Objetivo
+
+Construir soluções analíticas e automatizadas que impactem diretamente a lucratividade de negócios.  
+Transição direcionada com foco em dados reais, projetos práticos e ferramentas robustas.
+
+---
+
+## 🔧 Habilidades em desenvolvimento
+
+- Python para análise e automações
+- Estatística aplicada e Machine Learning
+- Automação de relatórios com VBA + Excel
+- Visualização de dados (Power BI, matplotlib, seaborn)
+- Git/GitHub para versionamento
+
+---
+
+## 📂 Projetos em destaque
+
+Em breve serão adicionados aqui os projetos do plano de estudos e cases reais da área de custos.
+
+---
+
+## 📫 Contato
+
+- Email: custos@sora.net.br  
+- Site: [https://sora.net.br](https://sora.net.br)
